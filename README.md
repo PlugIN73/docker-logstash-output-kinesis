@@ -1,6 +1,6 @@
 # Overview
 
-based on logstash 1.5.4 image, with kinesis plugin support - see `logstash-output-kinesis`
+based on logstash 2.1 image, with kinesis plugin support - see `logstash-output-kinesis`
 
 # Configuration
 
